@@ -1,8 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# I AM: the Good Shepherd
+## John 10:11-18
 
-[![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
-![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
+[![Build status](https://github.com/sermons/i-am-the-shepherd/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/i-am-the-shepherd/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/i-am-the-shepherd)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
