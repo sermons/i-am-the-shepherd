@@ -34,6 +34,10 @@
 1. Unites the Flock [(v16)](# "ref")
 1. Lays Down His Life [(v17-18)](# "ref")
 
+>>>
++ contrast w/**wage** worker
++ **rl** + ID
+
 ---
 I am the **good shepherd**. 
 
@@ -43,6 +47,11 @@ The good shepherd <br/>
 [John 10:11 (ESV)](# "ref")
 
 >>>
++ ch9: **Phar** who thought **seeing**
+  + insight, exp, vision, guidance
++ but goal only **lord** over others
++ Jesus: did not **claim** throne
+  + humbled self even to **death**
 
 ---
 He who is a **hired hand** and not a shepherd, <br/>
@@ -57,10 +66,24 @@ and **cares nothing** for the sheep.
 
 [John 10:12-13 (ESV)](# "ref")
 
+>>>
++ "hired": **wages**: just a job
++ **threats** to flock:
+  + prioritise **own** safety
++ "care": concern, occupy mind
++ "quiet quitting": do bare **min**
+  + **healthcare** workers can't do less
++ **pastor** search: shepherd
+  + only Chr is **perfect** shepherd
+
 ---
 <!-- .slide: data-background="white" -->
 # What do I **expect** <br/> of a **pastor**? 
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ will **I** do the same 
+  + for those in my care?
 
 ---
 <!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> class="outline" -->
@@ -69,6 +92,12 @@ and **cares nothing** for the sheep.
 1. **Knows and Is Known** [(v14-15)](# "ref")
 1. Unites the Flock [(v16)](# "ref")
 1. Lays Down His Life [(v17-18)](# "ref")
+
+>>>
++ does not **run away** 
+  + from threats to flock
++ **rl** w/sheep
+  + 2nd rep "good shepherd":
 
 ---
 I am the **good shepherd**. 
@@ -80,6 +109,34 @@ and I know the Father;
 and I **lay down** my life for the sheep. 
 
 [John 10:14-15 (ESV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+I will also have **compassion** <br>
+on her who had **not** obtained compassion,
+
+And I will say to those who were **not My people**, <br>
+‘You are **My people**!’
+
+And they will say, ‘You are **my God**!’
+
+[Hosea 2:23 (NASB)](# "ref")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
+
+>>>
++ Lo-Ruhamah, Lo-Ammi
+
+---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+Behold, the **dwelling place** of God <br/>
+is with man. 
+
+He will dwell with them, <br/>
+and they will be **his people**, <br/>
+and God himself will be with them as **their God**.
+
+[Revelation 21:3 (ESV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -119,10 +176,16 @@ So there will be one **flock**, one **shepherd**.
 1. **Lays Down His Life** [(v17-18)](# "ref")
 
 ---
-For this reason the Father loves me, <br/>
+For this reason the Father **loves** me, <br/>
 because I **lay down** my life <br/>
 that I may **take it up** again. 
 
+[John 10:18 (ESV)](# "ref")
+
+>>>
++ love: **obey**
+
+---
 No one takes it from me, <br/>
 but I lay it down of my **own** accord. 
 
@@ -130,7 +193,7 @@ I have **authority** to lay it down, <br/>
 and I have authority to take it up again. <br/>
 This charge I have received from my **Father**.
 
-[John 10:17-18 (ESV)](# "ref")
+[John 10:18 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
