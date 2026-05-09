@@ -39,12 +39,14 @@
 + **rl** + ID
 
 ---
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 I am the **good shepherd**. 
 
 The good shepherd <br/>
 **lays down** his life for the sheep. 
 
 [John 10:11 (ESV)](# "ref")
+[pxhere](https://pxhere.com/en/photo/1094065 "caption")
 
 >>>
 + ch9: **Phar** who thought **seeing**
@@ -54,6 +56,7 @@ The good shepherd <br/>
   + humbled self even to **death**
 
 ---
+<!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
 He who is a **hired hand** and not a shepherd, <br/>
 who does not **own** the sheep, 
 
@@ -65,6 +68,7 @@ He flees because he is a hired hand <br/>
 and **cares nothing** for the sheep. 
 
 [John 10:12-13 (ESV)](# "ref")
+[Nathan Anderson, Silverthorne, Colorado](https://unsplash.com/photos/mKA3VavSuaI "caption")
 
 >>>
 + "hired": **wages**: just a job
@@ -100,6 +104,7 @@ and **cares nothing** for the sheep.
   + 2nd rep "good shepherd":
 
 ---
+<!-- .slide: <%= bg("pixabay-19082-lamb.jpg") %> -->
 I am the **good shepherd**. 
 
 I **know** my own and my own know me, <br/>
@@ -152,6 +157,7 @@ and God himself will be with them as **their God**.
 1. Lays Down His Life [(v17-18)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
 And I have **other** sheep <br/>
 that are not of this **fold**. 
 
@@ -161,6 +167,7 @@ and they will **listen** to my voice.
 So there will be one **flock**, one **shepherd**. 
 
 [John 10:16 (ESV)](# "ref")
+[Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -176,16 +183,19 @@ So there will be one **flock**, one **shepherd**.
 1. **Lays Down His Life** [(v17-18)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 For this reason the Father **loves** me, <br/>
 because I **lay down** my life <br/>
 that I may **take it up** again. 
 
 [John 10:18 (ESV)](# "ref")
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + love: **obey**
 
 ---
+<!-- .slide: <%= bg("unsplash-89PFnHKg8HE-yosemite_forest.jpg") %> -->
 No one takes it from me, <br/>
 but I lay it down of my **own** accord. 
 
@@ -194,6 +204,29 @@ and I have authority to take it up again. <br/>
 This charge I have received from my **Father**.
 
 [John 10:18 (ESV)](# "ref")
+[Yosemite Valley.  John Towner](https://unsplash.com/photos/89PFnHKg8HE "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+looking to **Jesus**, <br/>
+the **founder** and **perfecter** of our faith, 
+
+who for the **joy** that was set before him <br/>
+endured the **cross**, despising the **shame**, 
+
+and is seated at the right hand <br/>
+of the **throne** of God.
+
+[Hebrews 12:2 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+
+>>>
++ saw **through** suffering to joy
++ despise the shame: look down on
+  + consider as nothing
++ received glory from Father
++ joy not in own glory
+  + but in seeing God's redemption
 
 ---
 <!-- .slide: data-background="white" -->
