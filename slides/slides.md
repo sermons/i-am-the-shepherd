@@ -206,6 +206,11 @@ This charge I have received from my **Father**.
 [John 10:18 (ESV)](# "ref")
 [Yosemite Valley.  John Towner](https://unsplash.com/photos/89PFnHKg8HE "caption")
 
+>>>
++ not bc **weakness**
++ but **obedience** to Father's plan
+  + **love** for us His sheep
+
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 looking to **Jesus**, <br/>
